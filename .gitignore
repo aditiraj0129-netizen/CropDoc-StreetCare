@@ -9,6 +9,11 @@ cropenv/
 # Environment variables - NEVER commit these
 .env
 backend/.env
+*.env
+__pycache__/
+*.pyc
+backend/models/*.tflite
+venv/
 
 # ML models (too large for GitHub)
 *.h5
@@ -24,7 +29,3 @@ node_modules/
 .DS_Store
 Thumbs.db
 
-# IDE
-.vscode/settings.json
-.env
-backend/.env
