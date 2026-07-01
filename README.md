@@ -114,7 +114,27 @@ npx expo start --clear
 # Scan QR with Expo Go (SDK 54)
 ```
 
----
+---<img width="784" height="1600" alt="cropdoc1" src="https://github.com/user-attachments/assets/070b2737-7d81-4950-b447-bad3a9c54a1c" />
+
+<img width="282" height="300" alt="c2" src="https://github.com/user-attachments/assets/eb55e106-b5fe-4080-82bc-d4d068f44988" />
+<img width="272" height="360" alt="c3" src="https://github.com/user-attachments/assets/776ddd3d-79e7-4a34-9f9e-84ab08e13626" />
+<img width="274" height="300" alt="c4" src="https://github.com/user-attachments/assets/62f35268-90ef-4032-820f-433a0840bd99" />
+<img width="274" height="300" alt="c6" src="https://github.com/user-attachments/assets/c3a051ad-51a3-44e3-9a09-7bd2a426582e" />
+<img width="282" height="300" alt="c7" src="https://github.com/user-attachments/assets/5e82501b-b1c4-45a0-a4b6-449a446fc68a" />
+<img width="282" height="300" alt="c8" src="https://github.com/user-attachments/assets/555c6396-20f8-4c9b-a94a-b3cd2162af9b" />
+<img width="274" height="300" alt="c9" src="https://github.com/user-attachments/assets/242b1433-4cf2-452d-800f-616c4627becf" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## What I'd build next
 
